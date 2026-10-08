@@ -4,7 +4,7 @@
 
 This repo has the interactive notebook from the YouTube video *But what is dy/dx?*. It starts with the slope of a straight line and ends with backpropagation in a small neural network, and every step comes with a plot you can play with.
 
-▶️ **Watch the video:** [VIDEO LINK]
+▶️ **Watch the video:** [[VIDEO LINK]](https://www.youtube.com/watch?v=C_-AxTT9lzQ&t=9s)
 
 ---
 
